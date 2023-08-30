@@ -1,0 +1,594 @@
+[
+    {
+        "msg": "What's with the fleet build in Marseilles?",
+        "daide": "PRP (XDO ((FRA FLT MAR) BLD))",
+        "sender": "italy",
+        "recipient": "france"
+    },
+    {
+        "msg": "Of course. I heard back from Italy as well and we seem to be on the same wavelength",
+        "daide": "PRP (ALY (AUS RUS) VSS (TUR))",
+        "sender": "austria",
+        "recipient": "russia"
+    },
+    {
+        "msg": "I\u2019ll move Ser in",
+        "daide": "PRP (XDO ((AUS AMY SER) MTO RUM))",
+        "sender": "austria",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "We accept the peace proposal between England, France and Germany.",
+        "daide": "YES (PRP (PCE (ENG FRA GER)))"
+    },
+    {
+        "msg": "how do we  bring him down?",
+        "daide": "PRP (ALY (AUS ENG) VSS (GER))",
+        "sender": "england",
+        "recipient": "italy"
+    },
+    {
+        "msg": "lets let them have tri this spring",
+        "daide": "PRP (SCD (AUS TRI))",
+        "sender": "russia",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "Hi Italy, hope you're doing well. I'll be figuring out the situation north of me for the beginning stages so I hope we can keep Pie and Lyo/Wes/Tys  dmz'd if that's ok with you?",
+        "daide": "PRP (DMZ (FRA ITA) (PIE LYO WES TYS))",
+        "sender": "france",
+        "recipient": "italy"
+    },
+    {
+        "msg": "Agreed re: Germany.  Wish we\u2019d had more time to discuss that build but it happens.",
+        "daide": "YES (PRP (ALY (ITA AUS ENG) VSS (GER)))",
+        "sender": "italy",
+        "recipient": "austria"
+    },
+    {
+        "msg": "Why no fleet in Ankara then?  That\u2019s much less threatening to me",
+        "daide": "PRP (NOT (XDO ((TUR FLT ANK) BLD)))",
+        "sender": "italy",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "Hey England, how are you? I would like to discuss an England/France alliance with you, aimed at taking Germany out quickly. I think if we work together and can trust each other, this could be an amazingly strong alliance. No matter what you decide, I think it would be in both our favor's to leave the English Channel as a DMZ. Let me know if you're interested and we can coordinate moves. Looking forwards to a great game, and good luck!",
+        "daide": "PRP (AND (ALY (FRA ENG) VSS (GER)) (DMZ (FRA ENG) (ECH)))",
+        "sender": "france",
+        "recipient": "england"
+    },
+    {
+        "msg": "would you be interested in going after Italy with me?",
+        "daide": "PRP (ALY (FRA AUS) VSS (ITA))",
+        "sender": "france",
+        "recipient": "austria"
+    },
+    {
+        "msg": "And then we split Italy.",
+        "daide": "PRP (SCD (TUR VEN ROM NAP) (AUS VEN ROM NAP))",
+        "sender": "turkey",
+        "recipient": "austria"
+    },
+    {
+        "msg": "Hello czar :) I think we should discuss a few things. A dmz of Silesia and Prussia would benefit us both. Let me know what you think. Also, there are plenty of joint risks to us both, particularly as the game progresses. Let me know if you've got any interest working together",
+        "daide": "PRP (DMZ (GER RUS) (SIL PRU))",
+        "sender": "germany",
+        "recipient": "russia"
+    },
+    {
+        "msg": "Yeah, Naples makes it look like we might actually be fighting, go for it.",
+        "daide": "YES (PRP (XDO ((ITA FLT NAP) BLD)))",
+        "sender": "austria",
+        "recipient": "italy"
+    },
+    {
+        "msg": "Yes you still get Paris",
+        "daide": "YES (PRP (SCD (GER PAR)))",
+        "sender": "england",
+        "recipient": "germany"
+    },
+    {
+        "msg": "We propose an alliance between Germany, Austria and Italy against France and Russia.",
+        "daide": "PRP (ALY (GER AUS ITA) VSS (FRA RUS))"
+    },
+    {
+        "msg": "I'd like denmark, norways all yours. Perhaps we could move on Russia but I think we should start with france, otherwise he'll become a problem for us both. After that we can hash out the rest of scandanavia and Russia as it goes?",
+        "daide": "PRP (AND (SCD (GER DEN)) (SCD (ENG NWY)) (ALY (GER ENG) VSS (FRA)))",
+        "sender": "germany",
+        "recipient": "england"
+    },
+    {
+        "msg": "Bud",
+        "daide": "PRP (XDO ((AUS AMY SER) MTO BUD))",
+        "sender": "austria",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "A/T move fast and break things?  I\u2019m fleets you\u2019re armies, kill Russia quick, let Italy fart around a few years then carve them up too? Whaddya say?",
+        "daide": "PRP (ALY (TUR AUS) VSS (RUS ITA))",
+        "sender": "turkey",
+        "recipient": "austria"
+    },
+    {
+        "msg": "Okay, but that means I'd prefer to take Brest myself this Spring, if France is okay with it.",
+        "daide": "PRP (SCD (GER BRE))",
+        "sender": "germany",
+        "recipient": "italy"
+    },
+    {
+        "msg": "perfect, so right on track for our norway-sweden split up north. Happy to aid in the fight against germany and france as well",
+        "daide": "YES (PRP (ALY (RUS ENG) VSS (GER FRA)))",
+        "sender": "russia",
+        "recipient": "england"
+    },
+    {
+        "msg": "Did you work out Warsaw with Austria?",
+        "daide": "YES (PRP (SCD (GER WAR)))",
+        "sender": "england",
+        "recipient": "germany"
+    },
+    {
+        "msg": "I think you should suggest to England that he gets Sweden and St Petersburg, while you get Denmark back. That\u2019s only fair, as you have been a loyal ally in the fight against France and you plan to continue to do that.",
+        "daide": "PRP (AND (SCD (ENG SWE STP) (GER DEN)) (ALY (ITA GER) VSS (FRA)))",
+        "sender": "italy",
+        "recipient": "germany"
+    },
+    {
+        "msg": "A runaway Russia would not be good for me. Not sure how much I can help though since I'm on the other side of the board. Maybe you can convince Italy to help you against Austria by offering them Greece",
+        "daide": "PRP (AND (ALY (TUR FRA) VSS (AUS)) (SCD (AUS GRE)))",
+        "sender": "france",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "The more I look at this board, the more I want to focus on an E/I Alliance. And I think the only thing standing in our way is France. I don\u2019t see Germany as any kind of obstacle at all.",
+        "daide": "PRP (ALY (ENG ITA) VSS (FRA))",
+        "sender": "italy",
+        "recipient": "england"
+    },
+    {
+        "msg": "Alright, from there Moscow is yours, I'll take St. Petersburg and Sweden and you'll take Romania and Sevastopol, as well as, of course, whatever you can get off the Turks.",
+        "daide": "YES (PRP (SCD (AUS MOS RUM SEV) (GER STP SWE)))",
+        "sender": "germany",
+        "recipient": "austria"
+    },
+    {
+        "msg": "Not entirely. He did not move F Nap - Ion",
+        "daide": "PRP (NOT (XDO ((ITA FLT NAP) MTO ION)))",
+        "sender": "turkey",
+        "recipient": "germany"
+    },
+    {
+        "msg": "Hello France, I too am interested in moving east with you and I think a channel DMZ is a great idea.  I'll be doing a fairly standard English opening so let's see how russia and germany open to plan tactics next season.",
+        "daide": "YES (PRP (AND (ALY (ENG FRA) VSS (GER)) (DMZ (ENG FRA) (ECH))))",
+        "sender": "england",
+        "recipient": "france"
+    },
+    {
+        "msg": "Well, I see you got cold feet regarding the A Con build",
+        "daide": "PRP (NOT (XDO ((TUR AMY CON) BLD)))",
+        "sender": "italy",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "What about a demilitarised North Sea. We agree to leave it open.",
+        "daide": "PRP (DMZ (GER ENG) (NTH))",
+        "sender": "germany",
+        "recipient": "england"
+    },
+    {
+        "msg": "With the build in Marseilles, France's goals are quite transparent",
+        "daide": "PRP (XDO ((FRA FLT MAR) BLD))",
+        "sender": "italy",
+        "recipient": "austria"
+    },
+    {
+        "msg": "If I remember correctly we were just starting to work together against england lol",
+        "daide": "PRP (ALY (RUS FRA) VSS (ENG))",
+        "sender": "russia",
+        "recipient": "france"
+    },
+    {
+        "msg": "I hope we can work together against France. I can make a great ally.",
+        "daide": "PRP (ALY (ENG GER) VSS (FRA))",
+        "sender": "england",
+        "recipient": "germany"
+    },
+    {
+        "msg": "Or were you gonna army in Berlin also?",
+        "daide": "PRP (XDO ((GER AMY BER) BLD))",
+        "sender": "italy",
+        "recipient": "germany"
+    },
+    {
+        "msg": "I can do that for sure, though it does mean slowing down potential convoys into England. What does this look like more broadly? Would you be willing to build a fleet in Kiel to take the North Sea? Does this mean you are letting me keep Munich so I can build a fourth fleet next turn?",
+        "daide": "PRP (AND (XDO ((GER FLT KIE) BLD)) (SCD (FRA MUN)))",
+        "sender": "france",
+        "recipient": "germany"
+    },
+    {
+        "msg": "Can you explain why you didn\u2019t build it in Mar?",
+        "daide": "PRP (NOT (XDO ((FRA FLT MAR) BLD)))",
+        "sender": "england",
+        "recipient": "france"
+    },
+    {
+        "msg": "I submitted orders to disband my southern fleet",
+        "daide": "PRP (XDO ((RUS FLT BLA) REM))",
+        "sender": "russia",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "Any chance you\u2019d give up Paris? I don\u2019t see where my sc is coming from and I need a build for our parity.",
+        "daide": "PRP (SCD (ENG PAR))",
+        "sender": "england",
+        "recipient": "germany"
+    },
+    {
+        "msg": "As far as denmark, the aggression there is fair. But you understand why I'm hesitant to drop down to 4 dots at this point in the game. Fortunately, there's an opportunity to do business here now that you're adjacent to Brest.",
+        "daide": "REJ (PRP (SCD (GER DEN)))",
+        "sender": "england",
+        "recipient": "germany"
+    },
+    {
+        "msg": "Lol especially with that fleet build",
+        "daide": "PRP (XDO ((TUR FLT SMY) BLD))",
+        "sender": "austria",
+        "recipient": "germany"
+    },
+    {
+        "msg": "And yes army in Mun and Ber",
+        "daide": "PRP (AND (XDO((GER AMY MUN) BLD)) (XDO ((GER AMY BER) BLD)))",
+        "sender": "germany",
+        "recipient": "england"
+    },
+    {
+        "msg": "Makes sense. He\u2019s a good player. How long do you see these terms holding out? Does Paris still go to me?",
+        "daide": "YES (PRP (SCD (GER PAR)))",
+        "sender": "germany",
+        "recipient": "england"
+    },
+    {
+        "msg": "I'll admit my promise to help you with Scandinavia was a little optimistic, but do excuse me as I'll blame it on a tad too much Austrian beer.  We should keep an eye on Turkey, but I feel as though an alliance this early on will not leave us in the best of standing with the rest of Europe.",
+        "daide": "REJ (PRP (ALY (AUS RUS) VSS (TUR)))",
+        "sender": "austria",
+        "recipient": "russia"
+    },
+    {
+        "msg": "I\u2019m thinking I take Serb and you can have Greece if that\u2019s cool with you?",
+        "daide": "PRP (SCD (GER SER) (TUR GRE))",
+        "sender": "germany",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "I think probably we give France one season to see what they do. England build F LON and France built F BRE, which is something we should keep an eye on before moving.",
+        "daide": "PRP (AND (XDO ((ENG FLT LON) BLD)) (XDO ((FRA FLT BRE) BLD)))",
+        "sender": "austria",
+        "recipient": "italy"
+    },
+    {
+        "msg": "You can have Ank, but I really do think it makes sense that I keep Greece. Ending up with 2 centers from Turkey/Balkans seems fair, with you getting everything else, yes?",
+        "daide": "PRP (SCD (AUS ANK) (ITA GRE))",
+        "sender": "italy",
+        "recipient": "austria"
+    },
+    {
+        "msg": "A Ber S Sil - Mun A Boh S Sil - Mun F BOT - BAL F Nwy - BAR A Sil - Mun F Swe - Nwy A Vie - Tri A War - Pru",
+        "daide": "PRP (AND (XDO ((RUS AMY BER) SUP (RUS FLT SIL) MTO MUN)) (XDO ((RUS AMY BOH) SUP (RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT GOB) MTO BAL)) (XDO ((RUS FLT NWY) MTO BAR)) (XDO ((RUS AMY SIL) MTO MUN)) (XDO ((RUS FLT SWE) MTO NWY)) (XDO ((RUS AMY VIE) MTO TRI)) (XDO ((RUS AMY WAR) MTO PRU)))",
+        "sender": "russia",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "So I plan to do F Alb S F Ven - Tri, A Apu - Ven",
+        "daide": "PRP (AND (XDO ((ITA FLT ALB) SUP (ITA FLT VEN) MTO TRI)) (XDO ((ITA AMY APU) MTO VEN)))",
+        "sender": "italy",
+        "recipient": "germany"
+    },
+    {
+        "msg": "You built a fleet in Edinburgh? Why? I'd think you'd want it in London no?",
+        "daide": "PRP (XDO ((ENG FLT EDI) BLD))",
+        "sender": "germany",
+        "recipient": "england"
+    },
+    {
+        "msg": "We can talk about how to divid it up. We definitely should make sure we both get builds. we\u2019re good to pause aggression on our front on the continent?",
+        "daide": "PRP (PCE (RUS FRA))",
+        "sender": "russia",
+        "recipient": "france"
+    },
+    {
+        "msg": "Yes, it's fine. Sooo, ig the game is in grace period, so I was wondering what you builds were looking like. I will build a fleet in Bre and if you build a fleet in Kiel, the 4 combined fleets should be more than enough to take out britain, and we shouldn't have to build anything else in that regard.",
+        "daide": "PRP (AND (XDO ((FRA FLT BRE) BLD)) (XDO ((GER FLT KIE) BLD)))",
+        "sender": "france",
+        "recipient": "germany"
+    },
+    {
+        "msg": "Cool. I\u2019m building F Smy and A Con.  Will get you detailed plans after we see the builds.  Good luck fixing democracy ;p",
+        "daide": "PRP (AND (XDO ((TUR FLT SMY) BLD)) (XDO ((TUR AMY CON) BLD)))",
+        "sender": "turkey",
+        "recipient": "russia"
+    },
+    {
+        "msg": "Alright splendid. I will keep my fleet out of EC. Further details can be discussed later.",
+        "daide": "YES (PRP (DMZ (ENG FRA) (ECH)))",
+        "sender": "england",
+        "recipient": "france"
+    },
+    {
+        "msg": "So as you likely see, Germany and France have a bit of a spat going on right now. Should the situation devolve to naval attacks against my own territory, would you be willing to exchange French/German lands in the south for your involvement/",
+        "daide": "PRP (ALY (ENG ITA) VSS (GER FRA))",
+        "sender": "england",
+        "recipient": "italy"
+    },
+    {
+        "msg": "And we work to split Italy between the two of us, right?  Tri/Rom for you, Nap/Tun for me?",
+        "daide": "PRP (SCD (AUS TRI ROM) (TUR NAP TUN))",
+        "sender": "turkey",
+        "recipient": "austria"
+    },
+    {
+        "msg": "You should grab Sweden.",
+        "daide": "PRP (SCD (GER SWE))",
+        "sender": "england",
+        "recipient": "germany"
+    },
+    {
+        "msg": "And then try to use Rum to go to Galicia",
+        "daide": "PRP (XDO ((TUR AMY RUM) MTO GAL))",
+        "sender": "italy",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "Let the French fleet in the English Channel support the French army in Belgium.",
+        "daide": "PRP (XDO ((FRA FLT ECH) SUP (FRA AMY BEL)))"
+    },
+    {
+        "msg": "My plan is to eventually have only fleets along my northwest coast (they're more versatile in that context) and move the armies inland.   See what you can negotiate with Italy, but no matter what they say, I'd be prepared to use your full strength to get Nao into Mao, if that's what you want to do. (And in case it's not obvious, it's what *I* think you should do)",
+        "daide": "PRP (XDO ((ENG FLT NAO) MTO MAO))",
+        "sender": "germany",
+        "recipient": "england"
+    },
+    {
+        "msg": "Mun > Ruh would give me opportunity to be a bigger player in the west.",
+        "daide": "PRP (XDO ((GER AMY MUN) MTO RUH))",
+        "sender": "germany",
+        "recipient": "austria"
+    },
+    {
+        "msg": "we need to join together againt germany",
+        "daide": "PRP (ALY (ENG AUS) VSS (GER))",
+        "sender": "england",
+        "recipient": "austria"
+    },
+    {
+        "msg": "Makes sense to move it to Kiel I think?",
+        "daide": "PRP (XDO ((ENG FLT DEN) MTO KIE))",
+        "sender": "france",
+        "recipient": "england"
+    },
+    {
+        "msg": "Let me know if you\u2019re cool with me temporarily putting my fleet in ska in the North Sea to block off France. France retreating their will screw things up big time. I have it set to move there right now, but I\u2019ll call it off immediately if you tell me to.",
+        "daide": "PRP (XDO ((GER FLT SKA) MTO NTH))",
+        "sender": "germany",
+        "recipient": "england"
+    },
+    {
+        "msg": "Yeah Italy is ready to get pretty wrecked, unless Austria  or I decide to stop working together",
+        "daide": "PRP (ALY (TUR AUS) VSS (ITA))",
+        "sender": "turkey",
+        "recipient": "france"
+    },
+    {
+        "msg": "But I\u2019m not going to do that!!!",
+        "daide": "PRP (NOT (XDO ((ITA FLT NAP) BLD)))",
+        "sender": "italy",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "We propose peace between England, France and Germany.",
+        "daide": "PRP (PCE (ENG FRA GER))"
+    },
+    {
+        "msg": "I\u2019m building an army in Mun and a fleet in Kiev",
+        "daide": "PRP (AND (XDO ((GER AMY MUN) BLD)) (XDO ((GER FLT KIE) BLD)))",
+        "sender": "germany",
+        "recipient": "austria"
+    },
+    {
+        "msg": "Lol we should have deconflicted- I spent a lot of time last night trying to get england and Germany to play nice at least few the next turn.  I assume you don\u2019t want england to help me bc you don\u2019t want me to get too strong?",
+        "daide": "PRP (PCE (ENG GER))",
+        "sender": "italy",
+        "recipient": "austria"
+    },
+    {
+        "msg": "What is your stance on me taking War",
+        "daide": "YES (PRP (SCD (AUS WAR)))",
+        "sender": "austria",
+        "recipient": "germany"
+    },
+    {
+        "msg": "Do you have a will to team up on Turkey at this point? I can't stop T by myself",
+        "daide": "PRP (ALY (FRA RUS) VSS (TUR))",
+        "sender": "france",
+        "recipient": "russia"
+    },
+    {
+        "msg": "Greetings my Germanic Brethren! Keeping the peace is definitely at the forefront of my foreign policy. Making Tyrol a DMZ sounds perfectly reasonable to me",
+        "daide": "YES (PRP (DMZ (AUS GER) (TYR)))",
+        "sender": "austria",
+        "recipient": "germany"
+    },
+    {
+        "msg": "If they do that, we desperately need to be strongly allied with the Austrians, otherwise they'll roll us over, hard.",
+        "daide": "PRP (ALY (GER ITA AUS) VSS (RUS TUR))",
+        "sender": "germany",
+        "recipient": "italy"
+    },
+    {
+        "msg": "So it looks like while you worked something out with Russia, to carve Germany up, you\u2019re now reorienting against them.",
+        "daide": "PRP (ALY (ENG RUS) VSS (GER))",
+        "sender": "turkey",
+        "recipient": "england"
+    },
+    {
+        "msg": "But I ain\u2019t lol",
+        "daide": "PRP (NOT (XDO ((ITA AMY VEN) BLD)))",
+        "sender": "italy",
+        "recipient": "austria"
+    },
+    {
+        "msg": "You\u2019re still going army Vienna yes?",
+        "daide": "PRP (XDO ((AUS AMY VIE) BLD))",
+        "sender": "italy",
+        "recipient": "austria"
+    },
+    {
+        "msg": "I\u2019m going to get Russia in on the German takedown. You really think the three of us can\u2019t handle france together once germany is gone?",
+        "daide": "PRP (ALY (ENG ITA RUS) VSS (GER FRA))",
+        "sender": "england",
+        "recipient": "italy"
+    },
+    {
+        "msg": "Shit. I\u2019m pretty screwed now. Disbanding my Prussia Army so you don\u2019t need to worry about me. Need to beat Turkey back to stay alive.",
+        "daide": "PRP (XDO ((RUS AMY PRU) REM))",
+        "sender": "russia",
+        "recipient": "germany"
+    },
+    {
+        "msg": "I 100% do not want to fight you. I agree that Austria Italy is a war that often happens but never really works out for either side. We would just stagnate until russia or turkey or both took us out.",
+        "daide": "YES (PRP (PCE (AUS ITA)))",
+        "sender": "austria",
+        "recipient": "italy"
+    },
+    {
+        "msg": "I think you need to stop the Nwg-Bar move, by doing Nwy-Bar.  At the same time, we need to just give you Tri so you can build another northern fleet.  We can give it back to me next year and if necessary you just disband a rearguard army to make up for it if you\u2019re not picking up another build somewhere else.",
+        "daide": "PRP (AND (XDO ((RUS FLT NWY) MTO BAR)) (SCD (RUS TRI)) (SCD (TUR TRI)))",
+        "sender": "turkey",
+        "recipient": "russia"
+    },
+    {
+        "msg": "If we can get Germany to take Paris, next year will be much easier. I think we should both direct her there.",
+        "daide": "PRP (SCD (GER PAR))",
+        "sender": "italy",
+        "recipient": "england"
+    },
+    {
+        "msg": "Could you attempt to take Venice?",
+        "daide": "PRP (SCD (ITA VEN))",
+        "sender": "russia",
+        "recipient": "italy"
+    },
+    {
+        "msg": "I don\u2019t thinkwe\u2019ll be able to push thru the line this fall. Can you move Mun to burg and then bur to gas",
+        "daide": "PRP (AND (XDO ((FRA AMY MUN) MTO BUR)) (XDO ((FRA AMY BUR) MTO GAS)))",
+        "sender": "russia",
+        "recipient": "france"
+    },
+    {
+        "msg": "Would you be ok with me building army in paris? I would send it over to the south east prob",
+        "daide": "YES (PRP (XDO ((FRA AMY PAR) BLD)))",
+        "sender": "france",
+        "recipient": "germany"
+    },
+    {
+        "msg": "so... what do you think?",
+        "daide": "YES (PRP (ALY (FRA AUS) VSS (ITA)))",
+        "sender": "france",
+        "recipient": "austria"
+    },
+    {
+        "msg": "Plan is not on, but working together against Italy definitely on?",
+        "daide": "YES (PRP (ALY (ENG GER) VSS (ITA)))",
+        "sender": "england",
+        "recipient": "germany"
+    },
+    {
+        "msg": "Well, I certainly wouldn't say no, you'll definitely have an easier time taking the Italians than I will bleeding anything from the Austrians.",
+        "daide": "YES (PRP (SCD (GER BEL)))",
+        "sender": "germany",
+        "recipient": "france"
+    },
+    {
+        "msg": "Yes \u2014 agreed upon.",
+        "daide": "YES (PRP (SCD (ITA TRI)))",
+        "sender": "italy",
+        "recipient": "germany"
+    },
+    {
+        "msg": "I'm building army Sebastopol for the obvious defense - assuming you do build in Trieste, will take steps to demilitarize that border (no move to Galicia or otherwise in your direction, cooperate on Smyrna, moving units away as soon as possible)",
+        "daide": "PRP (AND (XDO ((RUS AMY SEV) BLD)) (DMZ (RUS AUS) (GAL)))",
+        "sender": "russia",
+        "recipient": "austria"
+    },
+    {
+        "msg": "Yes, I'm all about fecking with Austria-Italy right now. \ud83d\ude00",
+        "daide": "YES (PRP (ALY (RUS GER ENG) VSS (AUS ITA)))",
+        "sender": "russia",
+        "recipient": "germany"
+    },
+    {
+        "msg": "He hasn't mentioned Denmark",
+        "daide": "REJ (PRP (SCD (ENG DEN)))",
+        "sender": "england",
+        "recipient": "france"
+    },
+    {
+        "msg": "Austria asked if I am willing to DMZ Gal",
+        "daide": "PRP (DMZ (RUS AUS) (GAL))",
+        "sender": "russia",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "In that case, I will keep out of Romania if you do the same, we'll keep it as a DMZ? ",
+        "daide": "PRP (DMZ (AUS RUS) (RUM))",
+        "sender": "austria",
+        "recipient": "russia"
+    },
+    {
+        "msg": "Hi Turkey! I fully agree that we should stay peaceful with eachother. How do you like the sound of you getting Greece and Bulgaria and I'll go for Romania and Serbia?",
+        "daide": "PRP (SCD (TUR GRE BUL) (AUS RUM SER))",
+        "sender": "austria",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "Absolutely not.",
+        "daide": "PRP (NOT (ALY (ITA GER) VSS (ENG)))",
+        "sender": "italy",
+        "recipient": "england"
+    },
+    {
+        "msg": "No, Denmark",
+        "daide": "PRP (XDO ((GER FLT DEN) MTO NTH))",
+        "sender": "austria",
+        "recipient": "germany"
+    },
+    {
+        "msg": "Yes",
+        "daide": "PRP (XDO ((AUS AMY SER) MTO RUM))",
+        "sender": "austria",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "Yes. I wasn\u2019t planning to take Portugal anyway.",
+        "daide": "YES (PRP (NOT (SCD (ITA POR))))",
+        "sender": "italy",
+        "recipient": "germany"
+    },
+    {
+        "msg": "I am willing to concede it to you if you cooperate elsewhere",
+        "daide": "PRP (SCD (FRA VEN))",
+        "sender": "italy",
+        "recipient": "france"
+    },
+    {
+        "msg": "France just reached out about working together against England",
+        "daide": "PRP (ALY (FRA RUS) VSS (ENG))",
+        "sender": "russia",
+        "recipient": "turkey"
+    },
+    {
+        "msg": "I still haven't heard from France. And we already agreed that you take liverpool.",
+        "daide": "YES (PRP (SCD (ENG LVP)))",
+        "sender": "germany",
+        "recipient": "england"
+    }
+]
